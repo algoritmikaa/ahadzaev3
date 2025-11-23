@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(158, 238, 238);
+    padding: 10px;
+    border-radius: 10px;
+    color: navy;
+}
+
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(158, 238, 238);
+    color: navy;
+}
+
+footer p {
+    background-color: rgb(158, 238, 238);
+    padding: 7px;
+}
+
+.algo {
+    background-color: rgb(158, 238, 238);
+    padding: 10px;
+}
+
+.fff {
+    color: blue;
+}
+
+.f {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
